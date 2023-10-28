@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-%2311B7D3.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-%23000000.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 
 
