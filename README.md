@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizramiz/) 
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dman&psig=AOvVaw2QBlrmNUfSz6pEyGbHezaX&ust=1698583993261000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCb-83kmIIDFQAAAAAdAAAAABAE" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.shields.io/badge/dart-%230175C2.svg?" style="padding-right:10px;" />][webdevplaylist]
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
