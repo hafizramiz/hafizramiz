@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 -->
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizramiz/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizramiz/)
+
 
 ### Languages and Tools:
 
