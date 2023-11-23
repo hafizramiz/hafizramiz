@@ -1,5 +1,5 @@
 ### Hi there, I am Hafiz 👋 
-## Flutter Developer | Kotlin  Developer | Mobile App Creator
+## Kotlin  Developer | Flutter Developer | Mobile App Creator
 
 <!--
 **hafizramiz/hafizramiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
