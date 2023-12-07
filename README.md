@@ -1,5 +1,5 @@
 ### Hi there, I am Hafiz 👋 
-## Android  Developer | Flutter Developer | Mobile App Creator
+## Mobile Developer | Android | Flutter
 
 <!--
 **hafizramiz/hafizramiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
