@@ -12,23 +12,8 @@
 -- 😄 Pronouns: ...
 -- ⚡ Fun fact: ...
 -->
-## 🔸 Key Skills:
-### ✔️ Android Development
-### ✔️ Jetpack Compose
-### ✔️ Mobile Development
-### ✔️ Kotlin
-### ✔️ Java
-### ✔️ Flutter
-### ✔️ Firebase
-### ✔️ SQL
-### ✔️ NoSQL
 
-
-### 👉 Let's connect to explore new opportunities!
-
-
-
-### Connect with me:
+### 👉 Let's connect to explore new opportunities!:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizramiz/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](ramizovhafiz@gmail.com)
 
