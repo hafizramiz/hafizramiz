@@ -12,20 +12,16 @@
 -- 😄 Pronouns: ...
 -- ⚡ Fun fact: ...
 -->
-🔸 Key Skills:
-✔️ Android Development
-✔️ Jetpack Compose
-✔️ Mobile Development
-✔️ Kotlin
-✔️ Java
-✔️ Flutter
-✔️ Firebase
-✔️ SQL
-✔️ NoSQL
-✔️ Problem Solving
-✔️ Team Collaboration
-✔️ Adaptability
-✔️ Time Management
+## 🔸 Key Skills:
+### ✔️ Android Development
+### ✔️ Jetpack Compose
+### ✔️ Mobile Development
+### ✔️ Kotlin
+### ✔️ Java
+### ✔️ Flutter
+### ✔️ Firebase
+### ✔️ SQL
+### ✔️ NoSQL
 
 
 ### 👉 Let's connect to explore new opportunities!
