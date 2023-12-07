@@ -12,6 +12,9 @@
 -- 😄 Pronouns: ...
 -- ⚡ Fun fact: ...
 -->
+👨🏻‍💻 Results-oriented Mobile Developer with over two years of expertise in crafting cutting-edge mobile applications. Proficient in developing high-quality, cross-platform solutions for Android and iOS using Kotlin, Java, and Flutter. Actively seeking a new opportunity to not only showcase my current skills but also to cultivate and expand them in a dynamic environment.
+
+
 
 ### 👉 Let's connect to explore new opportunities!:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizramiz/)
