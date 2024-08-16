@@ -12,7 +12,7 @@
 -- 😄 Pronouns: ...
 -- ⚡ Fun fact: ...
 -->
-👨🏻‍💻 Results-oriented Mobile Developer with over two years of expertise in crafting cutting-edge mobile applications. Proficient in developing high-quality, cross-platform solutions for Android and iOS using Kotlin, Java, and Flutter. Actively seeking a new opportunity to not only showcase my current skills but also to cultivate and expand them in a dynamic environment.
+👨🏻‍💻 Results-oriented Mobile Developer with over one year of expertise in crafting cutting-edge mobile applications. Proficient in developing high-quality, cross-platform solutions for Android and iOS using Kotlin, Java, and Flutter. Actively seeking a new opportunity to not only showcase my current skills but also to cultivate and expand them in a dynamic environment.
 ## Apps Available on Google Play Store
 [Fruits Merge Game](https://play.google.com/store/apps/details?id=com.hafizramiz.forkids2048.name)
 ![](https://camo.githubusercontent.com/eae925ecb92dd5eba20686273edaa2433c1c9b4adedf53af833a26d083893f68/68747470733a2f2f75732d63656e7472616c312d70726f67726573732d6d61726b646f776e2e636c6f756466756e6374696f6e732e6e65742f70726f67726573732f313030)
